@@ -1,0 +1,6 @@
+An Application that largely runs in the back ground that on click randomizes the cursor.
+
+You can select which cursors can or can't be randomized.
+Each cursor scheme is married to an ID number.
+That ID number is selected when the random function is called on each and every time a user clicks a thing. 
+The even trigger to cause this is when the mouse is depressed.
